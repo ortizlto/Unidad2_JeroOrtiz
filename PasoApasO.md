@@ -42,3 +42,5 @@ Los diagramas de flujo son herramientas visuales que ayudan a representar algori
 Estos símbolos son fundamentales para crear diagramas de flujo claros y comprensibles, facilitando la representación visual de los algoritmos. 🚀
 
 <img width="352" height="675" alt="image" src="https://github.com/user-attachments/assets/85d63ef2-fccf-4450-a0e8-298b1dad0372" />
+
+<img width="1008" height="668" alt="image" src="https://github.com/user-attachments/assets/915f8fa3-aa72-43f4-b9ca-2db411e95c06" />
