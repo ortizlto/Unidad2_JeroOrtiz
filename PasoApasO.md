@@ -46,3 +46,5 @@ Estos símbolos son fundamentales para crear diagramas de flujo claros y compren
 <img width="1008" height="668" alt="image" src="https://github.com/user-attachments/assets/915f8fa3-aa72-43f4-b9ca-2db411e95c06" />
 
 <img width="986" height="697" alt="image" src="https://github.com/user-attachments/assets/fe7fc482-14ef-4160-b1f3-5017dc09e52f" />
+
+<img width="962" height="632" alt="image" src="https://github.com/user-attachments/assets/ab9c99b2-ff8a-47f4-b4c5-2d386f3523d5" />
