@@ -40,3 +40,5 @@ Los diagramas de flujo son herramientas visuales que ayudan a representar algori
 - **Fin**: Se termina el algoritmo (Óvalo).
 
 Estos símbolos son fundamentales para crear diagramas de flujo claros y comprensibles, facilitando la representación visual de los algoritmos. 🚀
+
+<img width="352" height="675" alt="image" src="https://github.com/user-attachments/assets/85d63ef2-fccf-4450-a0e8-298b1dad0372" />
